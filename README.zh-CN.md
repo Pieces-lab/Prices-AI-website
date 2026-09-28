@@ -16,7 +16,7 @@
 
 个人网站可以有很多种样子。收集这些 Template，是为了让准备建立网站的人看到不同的自我介绍方式、项目组织方法和视觉表达，再找到适合自己的方向。每个 Template 都提供主页预览、在线链接、可用时的网站仓库，以及介绍页面结构和特点的独立文档。以后可以继续在 `templates/` 中加入更多人的个人网站。
 
-### 012 · Gdemoni · Personal World · 互动数字花园
+### 001 · Gdemoni · Personal World · 互动数字花园
 
 <img src="templates/zshgdemoni.me-home.jpg" alt="Gdemoni Personal World 主页预览" width="100%">
 

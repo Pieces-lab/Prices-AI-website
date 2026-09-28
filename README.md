@@ -16,7 +16,7 @@ A personal website is a space of your own. It can be a résumé, a digital garde
 
 Personal websites can take many forms. This collection helps new creators explore different ways to introduce themselves, organize projects, and express a personal style before building their own space. Each template includes a homepage preview, a live link, a source repository when available, and a separate document describing the site's structure and highlights. More personal websites can be added to `templates/` over time.
 
-### 012 · Gdemoni · Personal World · Interactive Digital Garden
+### 001 · Gdemoni · Personal World · Interactive Digital Garden
 
 <img src="templates/zshgdemoni.me-home.jpg" alt="Gdemoni Personal World homepage preview" width="100%">
 
