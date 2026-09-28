@@ -28,21 +28,24 @@
 
 ## 如何收录你的网站
 
-1. 确保个人网站可以公开访问，并准备好你愿意展示的经历、项目或作品。
-2. 参考 [`templates/_template.md`](templates/_template.md)，在 `templates/` 新增一份以网站域名或 GitHub 用户名命名的 Markdown 介绍。
-3. 在上方的 **个人网站 Template** 板块新增网站入口、相关链接和一句具体的特点说明，并通过 Pull Request 提交。
-
-请只填写你愿意公开的信息。网站内容和源码继续由作者在自己的仓库维护；这个仓库负责展示入口和介绍。
+参考 [`templates/_template.md`](templates/_template.md) 准备介绍文档，并在两个版本的 README 中加入对应条目。完整提交步骤和截图要求见[参与贡献指南](CONTRIBUTING.zh-CN.md)。
 
 ## 加入 Pieces Lab
 
 想成为组织成员，请先到 [Join Pieces](https://github.com/Pieces-lab/Join-Pieces) 按仓库说明提交申请：创建申请 Issue，提交关联该 Issue 的 Pull Request。维护者审核并合并后，会为成员提供组织内的个人专用仓库，用来记录经历、项目和作品。
+
+## 许可协议
+
+仓库中的原创文字采用 [CC BY 4.0](LICENSE) 许可。第三方参考资料和截图不在授权范围内；具体范围见许可文件开头。
 
 ## 仓库结构
 
 ```text
 README.md                 英文项目介绍与个人网站 Template 展示
 README.zh-CN.md           简体中文版
+CONTRIBUTING.md           英文贡献指南
+CONTRIBUTING.zh-CN.md     简体中文贡献指南
+LICENSE                   CC BY 4.0 许可与适用范围
 templates/_template.md    新增网站时使用的介绍模板
 templates/zshgdemoni.me.md  Gdemoni Personal World 的独立介绍
 templates/zshgdemoni.me-home.jpg  主页预览图
