@@ -33,6 +33,8 @@
 - **个人网站：** [skyjjgw.com](https://skyjjgw.com)
 - **网站仓库：** [skyjjgw/skyjjgw-starry-museum](https://github.com/skyjjgw/skyjjgw-starry-museum)（个人站静态发布快照）
 - **个人专用仓库：** [Pieces-lab/skyjjgw](https://github.com/Pieces-lab/skyjjgw)
+- **X：** [@skyjjgw](https://x.com/skyjjgw)
+- **邮箱：** [skyjjgw@gmail.com](mailto:skyjjgw@gmail.com)
 - **可复用模板：** [Starry Museum](https://github.com/skyjjgw/starry-museum-portfolio)（独立的匿名示例版）
 - **Template 介绍：** [templates/skyjjgw.com.md](templates/skyjjgw.com.md)
 - **特点：** 以星夜画作为背景，用四幅立体画框连接个人介绍、项目、学习手记与关于页面；画框内可以展开作品、翻阅手记，并通过自动浏览、暂停动态和全屏入口控制浏览节奏。
