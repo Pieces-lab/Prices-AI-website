@@ -33,6 +33,8 @@ Personal websites can take many forms. This collection helps new creators explor
 - **Website:** [skyjjgw.com](https://skyjjgw.com)
 - **Source repository:** [skyjjgw/skyjjgw-starry-museum](https://github.com/skyjjgw/skyjjgw-starry-museum) (static distribution snapshot of the personal site)
 - **Member repository:** [Pieces-lab/skyjjgw](https://github.com/Pieces-lab/skyjjgw)
+- **X:** [@skyjjgw](https://x.com/skyjjgw)
+- **Email:** [skyjjgw@gmail.com](mailto:skyjjgw@gmail.com)
 - **Reusable template:** [Starry Museum](https://github.com/skyjjgw/starry-museum-portfolio) (a separate anonymous example edition)
 - **Reference:** [templates/skyjjgw.com.md](templates/skyjjgw.com.md)
 - **Highlights:** A Starry Night backdrop and four three-dimensional frames connect a personal introduction, projects, learning notes, and an about page. Visitors can open project cards and browse the notebook inside the frames, with autoplay, pause, and fullscreen controls for the viewing experience.

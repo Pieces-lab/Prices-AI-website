@@ -44,6 +44,7 @@
 
 - 个人网站：<https://skyjjgw.com>
 - GitHub：<https://github.com/skyjjgw>
+- X：[@skyjjgw](https://x.com/skyjjgw)
 - 邮箱：[skyjjgw@gmail.com](mailto:skyjjgw@gmail.com)
 
 ## 素材说明
