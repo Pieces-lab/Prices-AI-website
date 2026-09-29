@@ -26,6 +26,17 @@
 - **Template 介绍：** [templates/zshgdemoni.me.md](templates/zshgdemoni.me.md)
 - **特点：** 可撕门票作为入口，用花园叙事连接个人介绍、项目温室、工具棚、成长路径和信箱；项目细节、探索反馈与双语内容让网站像一个持续生长的个人空间。
 
+### 002 · SKYJJGW · 星夜作品馆 · 互动个人展览
+
+<img src="templates/skyjjgw.com-home.png" alt="SKYJJGW 星夜作品馆首页预览" width="100%">
+
+- **个人网站：** [skyjjgw.com](https://skyjjgw.com)
+- **网站仓库：** [skyjjgw/skyjjgw-starry-museum](https://github.com/skyjjgw/skyjjgw-starry-museum)（个人站静态发布快照）
+- **个人专用仓库：** [Pieces-lab/skyjjgw](https://github.com/Pieces-lab/skyjjgw)
+- **可复用模板：** [Starry Museum](https://github.com/skyjjgw/starry-museum-portfolio)（独立的匿名示例版）
+- **Template 介绍：** [templates/skyjjgw.com.md](templates/skyjjgw.com.md)
+- **特点：** 以星夜画作为背景，用四幅立体画框连接个人介绍、项目、学习手记与关于页面；画框内可以展开作品、翻阅手记，并通过自动浏览、暂停动态和全屏入口控制浏览节奏。
+
 ## 如何收录你的网站
 
 参考 [`templates/_template.md`](templates/_template.md) 准备介绍文档，并在两个版本的 README 中加入对应条目。完整提交步骤和截图要求见[参与贡献指南](CONTRIBUTING.zh-CN.md)。
@@ -49,4 +60,6 @@ LICENSE                   CC BY 4.0 许可与适用范围
 templates/_template.md    新增网站时使用的介绍模板
 templates/zshgdemoni.me.md  Gdemoni Personal World 的独立介绍
 templates/zshgdemoni.me-home.jpg  主页预览图
+templates/skyjjgw.com.md   SKYJJGW 星夜作品馆的独立介绍
+templates/skyjjgw.com-home.png  星夜作品馆首页预览图
 ```

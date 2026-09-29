@@ -26,6 +26,17 @@ Personal websites can take many forms. This collection helps new creators explor
 - **Reference:** [templates/zshgdemoni.me.md](templates/zshgdemoni.me.md)
 - **Highlights:** A tear-off ticket opens a digital garden where the profile, project greenhouse, tool shed, growth path, and mailbox form one connected world. Project details, exploration feedback, and bilingual content make it a space that can keep growing with its creator.
 
+### 002 · SKYJJGW · Starry Museum · Interactive Personal Exhibition
+
+<img src="templates/skyjjgw.com-home.png" alt="SKYJJGW Starry Museum homepage preview" width="100%">
+
+- **Website:** [skyjjgw.com](https://skyjjgw.com)
+- **Source repository:** [skyjjgw/skyjjgw-starry-museum](https://github.com/skyjjgw/skyjjgw-starry-museum) (static distribution snapshot of the personal site)
+- **Member repository:** [Pieces-lab/skyjjgw](https://github.com/Pieces-lab/skyjjgw)
+- **Reusable template:** [Starry Museum](https://github.com/skyjjgw/starry-museum-portfolio) (a separate anonymous example edition)
+- **Reference:** [templates/skyjjgw.com.md](templates/skyjjgw.com.md)
+- **Highlights:** A Starry Night backdrop and four three-dimensional frames connect a personal introduction, projects, learning notes, and an about page. Visitors can open project cards and browse the notebook inside the frames, with autoplay, pause, and fullscreen controls for the viewing experience.
+
 ## Add your website
 
 Use [`templates/_template.md`](templates/_template.md) to prepare a reference document, then add a matching entry to both READMEs. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full submission steps and screenshot guidelines.
@@ -49,4 +60,6 @@ LICENSE                     CC BY 4.0 license and scope
 templates/_template.md      Starter document for a new website
 templates/zshgdemoni.me.md  Gdemoni Personal World reference
 templates/zshgdemoni.me-home.jpg  Homepage preview
+templates/skyjjgw.com.md    SKYJJGW Starry Museum reference
+templates/skyjjgw.com-home.png  Starry Museum homepage preview
 ```
