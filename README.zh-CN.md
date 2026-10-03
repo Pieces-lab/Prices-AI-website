@@ -39,6 +39,18 @@
 - **Template 介绍：** [templates/skyjjgw.com.md](templates/skyjjgw.com.md)
 - **特点：** 以星夜画作为背景，用四幅立体画框连接个人介绍、项目、学习手记与关于页面；画框内可以展开作品、翻阅手记，并通过自动浏览、暂停动态和全屏入口控制浏览节奏。
 
+### 003 · 小林 · Xiaolin OS · 可互动的个人空间
+
+<img src="templates/xiaolinyx.me-home.png" alt="Xiaolin OS 个人网站首页预览" width="100%">
+
+- **个人网站：** [xiaolinyx.me](https://xiaolinyx.me/)
+- **网站仓库：** [linyuchao123/xiaolin-os](https://github.com/linyuchao123/xiaolin-os)
+- **个人专用仓库：** [Pieces-lab/xiaolin](https://github.com/Pieces-lab/xiaolin)
+- **X：** [@xiaolinyx123](https://x.com/xiaolinyx123)
+- **邮箱：** [476638303@qq.com](mailto:476638303@qq.com)
+- **Template 介绍：** [templates/xiaolinyx.me.md](templates/xiaolinyx.me.md)
+- **特点：** 浅紫色首页以醒目的 XIAOLIN 字样和人物形象开场；可互动的项目卡片把个人介绍、项目案例、工具与想法串成一段可探索的旅程。网站兼顾桌面与手机操作，并提供访客自主开启的音乐播放器。
+
 ## 如何收录你的网站
 
 参考 [`templates/_template.md`](templates/_template.md) 准备介绍文档，并在两个版本的 README 中加入对应条目。完整提交步骤和截图要求见[参与贡献指南](CONTRIBUTING.zh-CN.md)。
@@ -64,4 +76,6 @@ templates/zshgdemoni.me.md  Gdemoni Personal World 的独立介绍
 templates/zshgdemoni.me-home.jpg  主页预览图
 templates/skyjjgw.com.md   SKYJJGW 星夜作品馆的独立介绍
 templates/skyjjgw.com-home.png  星夜作品馆首页预览图
+templates/xiaolinyx.me.md   Xiaolin OS 的独立介绍
+templates/xiaolinyx.me-home.png  Xiaolin OS 首页预览图
 ```
