@@ -39,6 +39,18 @@ Personal websites can take many forms. This collection helps new creators explor
 - **Reference:** [templates/skyjjgw.com.md](templates/skyjjgw.com.md)
 - **Highlights:** A Starry Night backdrop and four three-dimensional frames connect a personal introduction, projects, learning notes, and an about page. Visitors can open project cards and browse the notebook inside the frames, with autoplay, pause, and fullscreen controls for the viewing experience.
 
+### 003 · Xiaolin · Xiaolin OS · Interactive Personal Space
+
+<img src="templates/xiaolinyx.me-home.png" alt="Xiaolin OS personal website homepage preview" width="100%">
+
+- **Website:** [xiaolinyx.me](https://xiaolinyx.me/)
+- **Source repository:** [linyuchao123/xiaolin-os](https://github.com/linyuchao123/xiaolin-os)
+- **Member repository:** [Pieces-lab/xiaolin](https://github.com/Pieces-lab/xiaolin)
+- **X:** [@xiaolinyx123](https://x.com/xiaolinyx123)
+- **Email:** [476638303@qq.com](mailto:476638303@qq.com)
+- **Reference:** [templates/xiaolinyx.me.md](templates/xiaolinyx.me.md)
+- **Highlights:** A lavender homepage opens with oversized XIAOLIN lettering and an illustrated character. Interactive project cards lead into a personal introduction, detailed cases, tools, and reflections. The site adapts to desktop and mobile use, with a music player visitors can start themselves.
+
 ## Add your website
 
 Use [`templates/_template.md`](templates/_template.md) to prepare a reference document, then add a matching entry to both READMEs. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full submission steps and screenshot guidelines.
@@ -64,4 +76,6 @@ templates/zshgdemoni.me.md  Gdemoni Personal World reference
 templates/zshgdemoni.me-home.jpg  Homepage preview
 templates/skyjjgw.com.md    SKYJJGW Starry Museum reference
 templates/skyjjgw.com-home.png  Starry Museum homepage preview
+templates/xiaolinyx.me.md    Xiaolin OS reference
+templates/xiaolinyx.me-home.png  Xiaolin OS homepage preview
 ```
